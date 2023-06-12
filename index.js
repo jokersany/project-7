@@ -14,8 +14,5 @@ for (let i = 0; i < users.length; i++) {
   totalBalance += balance
 }
 
-console.log("Масив телефонних номерів користувачів з балансом більше 2000 доларів:")
-console.log(phoneNumbers)
-console.log("Сума всіх балансів користувачів:")
-console.log(totalBalance)
+
 
